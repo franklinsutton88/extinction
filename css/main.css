@@ -1,0 +1,91 @@
+body {
+	background-repeat: no-repeat;
+	background-image: url(trex.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+	padding: 5%;
+	
+}
+h1 {
+	text-align: center;
+	color: black;
+	background-color: #d68b59;
+
+}
+header {
+	padding-bottom: 50%;
+}
+
+section {
+	background-color: #d99858;
+	color: white;
+	overflow: hidden;
+}
+hr {
+	padding: 5%;
+}
+p {
+	float: left;
+	width: 40%;
+	font-family: 'Bungee', cursive;
+}
+img {
+	float right: 
+	width: 40%;
+	padding-left: 20%;
+}
+p.clear {
+	clear: both;
+}
+div {
+	overflow: hidden;
+}
+img.photo1 {
+	border-radius: 20%;
+	}
+
+
+
+.photo3 {
+	border-radius: 100%;
+}
+h2 {
+	text-align: center;
+	font-size: 30px;
+	font-family: 'Dosis', sans-serif;
+}
+h3 {
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Dosis', sans-serif;
+}
+h4 {
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Dosis', sans-serif;
+}
+
+hr {
+	color: black;
+}
+
+
+
+.photo4 {
+	width: 40%;
+	float: left;
+}
+
+footer {
+	color: white;
+}
+
+h5 {
+	font-size: 40px;
+	text-align: center;
+}
+
+p {
+	font-size: 20px;
+}
+
